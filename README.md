@@ -1,4 +1,5 @@
- 
+![image](https://github.com/JDSherbert/Audio-Delay/assets/43964243/6a7b530e-8740-423b-a20b-defd88ea625b)
+
 # Audio DSP: Limiter
 <!-- Header Start -->
 <img align="right" alt="Stars Badge" src="https://img.shields.io/github/stars/jdsherbert/Audio-DSP-Limiter?label=%E2%AD%90"/>
